@@ -1,0 +1,6 @@
+{
+  "name": "MAX PROXY",
+  "description": "Minimalistic liquid-glass VPN with ultra-fast global servers and secure tunnel protection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
